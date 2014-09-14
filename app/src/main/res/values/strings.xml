@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright 2014 Julio Garcia Munoz (ZhDev)
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+
+    <string name="app_name">Ctrl-V Keyboard for Tasker</string>
+    <string name="ime_name" translatable="false">Ctrl-V</string>
+    <string name="action_save">Save changes</string>
+    <string name="text_to_be_typed">Text to be typed:</string>
+    <string name="variable_replacement_ok">Variables are accepted</string>
+    <string name="variable_replacement_not_ok">Variables are not accepted</string>
+    <string name="clear_existing_text">Clear existing text before typing</string>
+    <string name="perform_action">Simulate \'Enter\' key action after typing</string>
+    <string name="blurb">Text: %1$s\nClear before: %2$s\nEnd with action: %3$s</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ctrlv_not_enabled_title">Ctrl-V is not enabled</string>
+    <string name="ctrlv_not_enabled_message">The keyboard must be active under system settings. Enable Ctrl-V and then come back to keep using the plugin.</string>
+    <string name="go_to_system_settings">Go to system settings</string>
+    <string name="cancel">Cancel</string>
+
+</resources>
