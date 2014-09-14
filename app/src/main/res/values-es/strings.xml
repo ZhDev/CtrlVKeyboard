@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+  ~ Copyright 2014 Julio Garcia Munoz (ZhDev)
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    
+    <string name="app_name">Teclado Ctrl-V para Tasker</string>
+    <string name="action_save">Guardar cambios</string>
+    <string name="text_to_be_typed">Texto a escribir:</string>
+    <string name="variable_replacement_ok">Se aceptan variables</string>
+    <string name="variable_replacement_not_ok">No se aceptan variables</string>
+    <string name="clear_existing_text">Limpiar texto existente antes de escribir</string>
+    <string name="perform_action">Simular la acción de la tecla \'Enter\' después de escribir</string>
+    <string name="blurb">Texto: %1$s\nLimpiar antes: %2$s\nAcción al terminar: %3$s</string>
+    <string name="yes">Sí</string>
+    <string name="ctrlv_not_enabled_title">Ctrl-V no está habilitado</string>
+    <string name="ctrlv_not_enabled_message">El teclado debe estar activo en los ajustes del sistema. Habilita Ctrl-V y vuelve atrás para seguir utilizando el plugin.</string>
+    <string name="go_to_system_settings">Ir a los ajustes del sistema</string>
+    <string name="cancel">Cancelar</string>
+    <string name="no">No</string>
+
+</resources>
