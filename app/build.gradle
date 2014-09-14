@@ -19,8 +19,8 @@ apply from: "$rootDir/signing.gradle"
 
 ext {
     versionMajor = 1
-    versionMinor = 0
-    versionPatch = 1
+    versionMinor = 1
+    versionPatch = 0
     versionBuild = 0
 }
 
